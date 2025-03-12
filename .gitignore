@@ -1,0 +1,21 @@
+# Virtuelle Umgebung ignorieren
+venv/
+
+# Cache-Dateien ignorieren
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Notebook-Checkpoints ignorieren
+.ipynb_checkpoints/
+
+# Daten & Logs ignorieren (optional)
+data/
+*.csv
+*.xlsx
+*.json
+*.log
+
+# Mac-spezifische Dateien ignorieren
+.DS_Store
